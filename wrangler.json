@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "yournewroof-funnel",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "600ded73-fc66-4097-8cf3-949bc19c383d",
+      "database_name": "yournewroof-funnel-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
